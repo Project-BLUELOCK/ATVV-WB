@@ -18,7 +18,7 @@ Para fazer o deploy desse projeto rode
 
 - Primeiramente crie uma pasta nova na área de trabalho entre nela e de cmd;
 - Após isso clone o repositorio git com o seguinte comando no `git clone https://github.com/Project-BLUELOCK/ATVV-WB`;
-- Entre na pasta utilizando `cd atviv-wb-typescript`;
+- Entre na pasta utilizando `cd ATVV-WB`;
 - Siga os seguintes passos para rodar tanto o Backend quanto Frontend;
   -  Para o projeto funcionar de maneira adequada ambos tem que estar rodando sendo assim necessário dois terminais. 
 
